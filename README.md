@@ -63,8 +63,31 @@ Follow these steps to set up and run the project on your local machine:
     ```
 
 6. **Run the Jupyter Notebook**:
-    ```bash
-    jupyter notebook
-    ```
+6.1. Execute the cells in sequence to preprocess the data, perform clustering, and visualize the results.
+6.2. Visualize the dendrogram, 2D clusters, and 3D cluster plots as shown in the notebook.
 
 
+## Visualization
+**Dendrogram**
+This dendrogram visualizes the customer hierarchy, showing how clusters are merged at different distances.
+
+
+**2D Scatter Plot**
+Clusters of mall customers based on Annual Income and Spending Score.
+
+
+**3D Plot with Plotly**
+This 3D plot shows the clusters based on Age, Annual Income, and Spending Score.
+
+
+## Technologies Used
+**Python**: Main programming language
+**Pandas**: Data manipulation and analysis
+**NumPy**: Numerical computations
+**Matplotlib**: 2D plotting
+**Seaborn**: Statistical data visualization
+**Plotly**: 3D interactive visualizations
+**Scikit-learn**: Machine learning algorithms for clustering
+**Jupyter Notebook**: Interactive development environment
+
+**You can further personalize this based on your preferences or specific repository needs.**
