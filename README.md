@@ -90,4 +90,5 @@ This 3D plot shows the clusters based on Age, Annual Income, and Spending Score.
 **Scikit-learn**: Machine learning algorithms for clustering
 **Jupyter Notebook**: Interactive development environment
 
-**You can further personalize this based on your preferences or specific repository needs.**
+
+**You can further personalize this based on your preferences or specific repository needs!**
