@@ -34,7 +34,7 @@ Follow these steps to set up and run the project on your local machine:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://(https://github.com/Eya-Laouini/Mall-Customer-Segmentation)
+    git clone https://https://github.com/Eya-Laouini/Mall-Customer-Segmentation
     ```
 
 2. **Navigate to the project directory**:
