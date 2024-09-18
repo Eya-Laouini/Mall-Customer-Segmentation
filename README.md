@@ -39,7 +39,7 @@ Follow these steps to set up and run the project on your local machine:
 
 2. **Navigate to the project directory**:
     ```bash
-    cd mall-customer-segmentation
+    cd Mall-Customer-Segmentation
     ```
 
 3. **Create a virtual environment** (optional but recommended):
